@@ -1,3 +1,4 @@
+#!/bin/python3
 age = input("Please tell me your age: ")
 age = int(age)
 age_10 = age + 10
